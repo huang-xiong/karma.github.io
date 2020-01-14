@@ -1,0 +1,10 @@
+.k-navbar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  max-width: 640px;
+  height: 2.5rem;
+  border-bottom: 1px soild #ccc;
+  box-sizing: border-box;
+  z-index: 200;
+}

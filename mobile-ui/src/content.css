@@ -1,0 +1,7 @@
+.k-navbar ~ .k-content {
+  padding-bottom: 2.5rem;
+}
+
+.k-header ~ .k-content {
+  padding-top: 50px;
+}
